@@ -1,0 +1,264 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.928; Version 2004; 64bit' Language: 'en' Physical Memory: 32692 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Tommay/Desktop/Unit 1/Tommy Nguyen Unit 1 Learning
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52764
+Successfully changed project path to: C:/Users/Tommay/Desktop/Unit 1/Tommy Nguyen Unit 1 Learning
+C:/Users/Tommay/Desktop/Unit 1/Tommy Nguyen Unit 1 Learning
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 24.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Tommay/Desktop/Unit 1/Tommy Nguyen Unit 1 Learning/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   
+    VRAM:     8088 MB
+    Driver:   27.21.14.6109
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56988
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002480 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 26.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.301 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000852 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.796 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1138 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.8 MB.
+System memory in use after: 71.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1601.
+Total: 1.808700 ms (FindLiveObjects: 0.125300 ms CreateObjectMapping: 0.036700 ms MarkObjects: 1.558400 ms  DeleteObjects: 0.087200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/TerrainTexturesPackFree/DemoScene/Demo/LightingData.asset
+  artifactKey: Guid(c27cece679222974288960f8f39c850a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainTexturesPackFree/DemoScene/Demo/LightingData.asset using Guid(c27cece679222974288960f8f39c850a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cee7aa7db2b47a0458778d022f6f8e3') in 0.039463 seconds
+  Import took 0.041199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/TerrainTexturesPackFree/DemoScene/Demo/ReflectionProbe-0.exr
+  artifactKey: Guid(04e48928ec6bf78418d76c801b212fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainTexturesPackFree/DemoScene/Demo/ReflectionProbe-0.exr using Guid(04e48928ec6bf78418d76c801b212fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d78541157770ac63e664793a2233585') in 0.137414 seconds
+  Import took 0.139104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.243086 seconds.
+  path: Assets/Terrain/New Terrain.asset
+  artifactKey: Guid(59d812de45be0d84e8a30729985b07d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/New Terrain.asset using Guid(59d812de45be0d84e8a30729985b07d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d1386a179e71f7cbfa2f4fb0a279de2') in 0.024042 seconds
+  Import took 0.026202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Terrain/NewLayer.terrainlayer
+  artifactKey: Guid(537e011d964436e49801a4bd4aa2bea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/NewLayer.terrainlayer using Guid(537e011d964436e49801a4bd4aa2bea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3821c4a8d3405000d59a5a3d7fa53bc4') in 0.148839 seconds
+  Import took 0.150515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Terrain/NewLayer 1.terrainlayer
+  artifactKey: Guid(ed5f1f913d907a0499c65a7ea8d4035b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/NewLayer 1.terrainlayer using Guid(ed5f1f913d907a0499c65a7ea8d4035b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c838a06f5dc88fc799fa5c97a8e14ef') in 0.016255 seconds
+  Import took 0.018159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.516766 seconds.
+  path: Assets/48 Particle Effect Pack/Texture/Smoke6.png
+  artifactKey: Guid(f7d40b82a4bdec24088bd5e9ace1adad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/48 Particle Effect Pack/Texture/Smoke6.png using Guid(f7d40b82a4bdec24088bd5e9ace1adad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98685f68f49435463619197623e440f4') in 0.054049 seconds
+  Import took 0.056742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/48 Particle Effect Pack/Texture/Smoke7.png
+  artifactKey: Guid(a42e7b2914e69ed4b9fcd1728c8dd2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/48 Particle Effect Pack/Texture/Smoke7.png using Guid(a42e7b2914e69ed4b9fcd1728c8dd2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb8c74b7d39a8efa7984d86c59f3c854') in 0.012550 seconds
+  Import took 0.015021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/48 Particle Effect Pack/Texture/SnowCrystal3.png
+  artifactKey: Guid(a65abe18d5d4cd5488a59984e1928bea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/48 Particle Effect Pack/Texture/SnowCrystal3.png using Guid(a65abe18d5d4cd5488a59984e1928bea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68be886d40957151e50a7ce1e7bb9211') in 0.013118 seconds
+  Import took 0.015753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/48 Particle Effect Pack/Texture/Spark2.png
+  artifactKey: Guid(d93ddb7c7e392d143804e0f15189d8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/48 Particle Effect Pack/Texture/Spark2.png using Guid(d93ddb7c7e392d143804e0f15189d8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5894c7941b428ac43c24b586253e0dce') in 0.013354 seconds
+  Import took 0.015709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/48 Particle Effect Pack/Texture/SnowCrystal2.png
+  artifactKey: Guid(8d3ea6acae949a443a8e426963668ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/48 Particle Effect Pack/Texture/SnowCrystal2.png using Guid(8d3ea6acae949a443a8e426963668ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3137a6b93ac5262b221f4d49dcb91a01') in 0.010093 seconds
+  Import took 0.011944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/48 Particle Effect Pack/Texture/SnowCrystal.png
+  artifactKey: Guid(6b429bf37702fd44dbdd6836556c6a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/48 Particle Effect Pack/Texture/SnowCrystal.png using Guid(6b429bf37702fd44dbdd6836556c6a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '222868e5a3f5ab96f78adc9339dda407') in 0.010156 seconds
+  Import took 0.011967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/48 Particle Effect Pack/Texture/SnowCrystal4.png
+  artifactKey: Guid(f86f0f5ed1fc4de4da6956aa8e44b93b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/48 Particle Effect Pack/Texture/SnowCrystal4.png using Guid(f86f0f5ed1fc4de4da6956aa8e44b93b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad85f3d1a85c76c8995c193c6952732b') in 0.010866 seconds
+  Import took 0.012796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005259 seconds.
+  path: Assets/48 Particle Effect Pack/Texture/SnowCrystal4.png
+  artifactKey: Guid(f86f0f5ed1fc4de4da6956aa8e44b93b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/48 Particle Effect Pack/Texture/SnowCrystal4.png using Guid(f86f0f5ed1fc4de4da6956aa8e44b93b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad85f3d1a85c76c8995c193c6952732b') in 0.005231 seconds
+  Import took 0.007786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.404071 seconds.
+  path: Assets/48 Particle Effect Pack/Texture/Spark3.png
+  artifactKey: Guid(b1e16ae540097534e83802d747296d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/48 Particle Effect Pack/Texture/Spark3.png using Guid(b1e16ae540097534e83802d747296d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7156ebc322664ad71b84418c9982388e') in 0.011006 seconds
+  Import took 0.012940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/48 Particle Effect Pack/Texture/Spark4.png
+  artifactKey: Guid(db05eea9c63f1dd4f940ee03feef35d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/48 Particle Effect Pack/Texture/Spark4.png using Guid(db05eea9c63f1dd4f940ee03feef35d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc769cd7c28f9f07f698306f4345738e') in 0.009409 seconds
+  Import took 0.011216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/48 Particle Effect Pack/Texture/Spark5.png
+  artifactKey: Guid(8c17e8a7fd22fea4b9f9c78d0114a1e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/48 Particle Effect Pack/Texture/Spark5.png using Guid(8c17e8a7fd22fea4b9f9c78d0114a1e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a8226cc0c1c596c136517bba0748704') in 0.011566 seconds
+  Import took 0.013592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/48 Particle Effect Pack/Texture/Spark7.png
+  artifactKey: Guid(f39a3fcecd775874da287edb5e40155e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/48 Particle Effect Pack/Texture/Spark7.png using Guid(f39a3fcecd775874da287edb5e40155e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fad76e26e96ba2345280e595ab085d7e') in 0.009797 seconds
+  Import took 0.011727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/48 Particle Effect Pack/Texture/Spark8.png
+  artifactKey: Guid(8065c125ba8eb0f4ab6667beec45cc98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/48 Particle Effect Pack/Texture/Spark8.png using Guid(8065c125ba8eb0f4ab6667beec45cc98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87846b040216ccacf018496daf98fbec') in 0.011657 seconds
+  Import took 0.013620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/48 Particle Effect Pack/Texture/Star2.png
+  artifactKey: Guid(300894ea081c5214297ef8f895370324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/48 Particle Effect Pack/Texture/Star2.png using Guid(300894ea081c5214297ef8f895370324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '538457320f96ae421a7b061d590eaeb5') in 0.010330 seconds
+  Import took 0.012188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/48 Particle Effect Pack/Texture/Star.png
+  artifactKey: Guid(b8e508d01fb69b94985fea1cec32c7a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/48 Particle Effect Pack/Texture/Star.png using Guid(b8e508d01fb69b94985fea1cec32c7a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63753ade63fa4e94bdd016cb53ce7d00') in 0.009276 seconds
+  Import took 0.011326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/48 Particle Effect Pack/Texture/Spark6.png
+  artifactKey: Guid(efe3c48ad209d0b4c91c9970c382125e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/48 Particle Effect Pack/Texture/Spark6.png using Guid(efe3c48ad209d0b4c91c9970c382125e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26882453a4596c3980316c73a7f749eb') in 0.011396 seconds
+  Import took 0.013305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/48 Particle Effect Pack/Texture/Star3.png
+  artifactKey: Guid(fc23b9925e1da294da3fb813e68d4fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/48 Particle Effect Pack/Texture/Star3.png using Guid(fc23b9925e1da294da3fb813e68d4fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3d4adb9aeecd5521c3ca5e0ce393b03') in 0.010036 seconds
+  Import took 0.011813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/48 Particle Effect Pack/Texture/Star.png
+  artifactKey: Guid(b8e508d01fb69b94985fea1cec32c7a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/48 Particle Effect Pack/Texture/Star.png using Guid(b8e508d01fb69b94985fea1cec32c7a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63753ade63fa4e94bdd016cb53ce7d00') in 0.008332 seconds
+  Import took 0.010969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007364 seconds.
+  path: Assets/48 Particle Effect Pack/Texture/Star3.png
+  artifactKey: Guid(fc23b9925e1da294da3fb813e68d4fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/48 Particle Effect Pack/Texture/Star3.png using Guid(fc23b9925e1da294da3fb813e68d4fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3d4adb9aeecd5521c3ca5e0ce393b03') in 0.010859 seconds
+  Import took 0.013177 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
